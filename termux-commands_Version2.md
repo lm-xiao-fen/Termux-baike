@@ -183,5 +183,5 @@ git config --global user.email "your.email@example.com"
    - 编辑 `~/.termux/termux.properties` 自定义终端外观
    - 编辑 `~/.bashrc` 设置环境变量和别名
 
----
-*文档版权所有 © 2025 lm-xiao-fen*
+## 许可证
+MIT LICENSE
