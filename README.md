@@ -1,6 +1,6 @@
 # Termux 命令指南
 
-![Termux Logo](https://termux.com/files/termux-logo.png)
+![Termux Logo](https://avatars.githubusercontent.com/u/8104776?s=48&v=4)
 [![最后更新](https://img.shields.io/badge/最后更新-2025--05--24-blue.svg)](termux-commands.md)
 [![作者](https://img.shields.io/badge/作者-lm--xiao--fen-orange.svg)](https://github.com/lm-xiao-fen)
 
